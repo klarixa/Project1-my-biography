@@ -323,3 +323,4 @@ npm run preview  # Test production build locally
 **Remember**: This project teaches you the foundation of component-based development. Components are the building blocks of modern web applications - master them here, use them everywhere!
 
 **💡 Pro Tip**: Think about how these components could be reused in other projects. Good components are flexible, well-named, and do one thing well.
+"# my-biography" 
